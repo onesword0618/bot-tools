@@ -7,6 +7,7 @@
 bot tools.
 
 <p>
+
 ![GitHub](https://img.shields.io/github/license/onesword0618/bot-tools?style=plastic)
 ![GitHub top language](https://img.shields.io/github/languages/top/onesword0618/bot-tools?style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/onesword0618/bot-tools?style=plastic)
@@ -42,11 +43,11 @@ gradle run
 
 ## Documents
 
-- [Scaffold](docs/scaffold.md)
+-   [Scaffold](docs/scaffold.md)
 
 ## License
 
-- [MIT](./LICENSE)
+-   [MIT](./LICENSE)
 
 ### Author
 
